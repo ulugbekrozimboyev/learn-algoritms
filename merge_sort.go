@@ -1,3 +1,8 @@
+/**
+ * @author Ulug'bek Ro'zimboyev
+ * this was written for learning algorithms
+ * based on this post: https://www.hackerearth.com/notes/sorting-code-monk/
+ */
 package main
 
 import (
