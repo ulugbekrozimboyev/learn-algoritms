@@ -64,5 +64,5 @@ func main() {
 
 	mergeSort(&arr, 0 , len(arr)-1)
 
-	fmt.Println(arr)
+	fmt.Printf("%%", arr)
 }
